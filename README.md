@@ -1,4 +1,4 @@
-\# 📊 Dashboard RH — Power BI
+# 📊 Dashboard RH — Power BI
 
 
 
@@ -6,21 +6,21 @@
 
 
 
-!\[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+\[Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
 
-!\[DAX](https://img.shields.io/badge/DAX-185FA5?style=for-the-badge\&logoColor=white)
+\[DAX](https://img.shields.io/badge/DAX-185FA5?style=for-the-badge\&logoColor=white)
 
-!\[Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge\&logoColor=white)
+\[Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge\&logoColor=white)
 
-!\[Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
-
-
-
-\---
+\[Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoftexcel\&logoColor=white)
 
 
 
-\## 🎯 Objectif du projet
+---
+
+
+
+## 🎯 Objectif du projet
 
 
 
@@ -28,13 +28,13 @@ Ce dashboard RH a été conçu pour permettre aux équipes de direction et aux r
 
 
 
-\- Suivre les effectifs en temps réel par département, statut et type de contrat
+- Suivre les effectifs en temps réel par département, statut et type de contrat
 
-\- Analyser l'absentéisme et identifier les tendances par période et par équipe
+- Analyser l'absentéisme et identifier les tendances par période et par équipe
 
-\- Évaluer les performances des employés sur 3 ans (2022–2024)
+- Évaluer les performances des employés sur 3 ans (2022–2024)
 
-\- Prendre des décisions basées sur les données sans manipulation de fichiers Excel
+- Prendre des décisions basées sur les données sans manipulation de fichiers Excel
 
 
 
